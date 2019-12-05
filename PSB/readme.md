@@ -20,18 +20,22 @@ Foram reconhecidos 5 padrões:
 
 ### Exemplo de expressão do tipo 2:
 - W80(x
+
   $$ W_8^0(x $$
 
 ### Exemplo de expressão do tipo 3:
 - W165
+
   $$ W_{16}^5 $$
 
 ### Exemplo de expressão do tipo 4:
 - X(0) = A2 + W160I2
+
 $$ X(0) = A2 + W_{16}^0I2  $$
 
 ### Exemplo de expressão do tipo 5:
 - A2 = A1 + W80E1
+
 $$ A2 = A1 + W_8^0E1  $$
 
 Ao final, os resultados são printados no console e também exportados pra um .txt. O texto pode ser diretamente colado no RMarkdown para que as equações sejam mostradas adequadamente.
