@@ -16,17 +16,18 @@ Foram reconhecidos 5 padrões:
 ### Exemplo de expressão do tipo 1:
 
  - A = x(0) + W20x(2)
-  $$ A = x(0) + W_2^0x(2) $$
+
+$$ A = x(0) + W_2^0x(2) $$
 
 ### Exemplo de expressão do tipo 2:
 - W80(x
 
-  $$ W_8^0(x $$
+$$ W_8^0(x $$
 
 ### Exemplo de expressão do tipo 3:
 - W165
 
-  $$ W_{16}^5 $$
+$$ W_{16}^5 $$
 
 ### Exemplo de expressão do tipo 4:
 - X(0) = A2 + W160I2
